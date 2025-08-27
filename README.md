@@ -3,7 +3,8 @@
 ## 1. Preparar o Mecanismo
 
 Conecte a placa **ESP32** na **Protoboard**:  
-![Conexão do ESP32 na Protoboard](caminho-da-imagem)
+
+<img src="https://github.com/GustavoLoghan/Sensor_DHT22/blob/main/2/WhatsApp%20Image%202025-08-27%20at%2013.58.46.jpeg" width="400"/>
 
 Em seguida, conecte os fios nos seus respectivos lugares:
 
@@ -11,21 +12,23 @@ Em seguida, conecte os fios nos seus respectivos lugares:
 - O **cabo vermelho** no **5V/VIN**
 - O **cabo laranja** no **Pino Digital**
 
-![Conexões dos Cabos](caminho-da-imagem)
+<img src="https://github.com/GustavoLoghan/Sensor_DHT22/blob/main/2/WhatsApp%20Image%202025-08-27%20at%2013.37.24.jpeg" width="400"/>
 
 ---
 
 ## 2. Baixe a Biblioteca `Bonezegei_DHT11`
 
 É necessário baixar esta biblioteca, pois ela contém funcionalidades que serão implementadas no código.  
-![Download da Biblioteca](caminho-da-imagem)
+
+<img src="https://github.com/GustavoLoghan/Sensor_DHT22/blob/main/2/Captura%20de%20tela%202025-08-27%20142821.png" width="400"/>
 
 ---
 
-## 3. Código
+## 3. Código 🧑‍💻
 
 Escreva o seguinte código para fazer o **DHT22** funcionar corretamente:  
-![Código de Exemplo](caminho-da-imagem)
+
+<img src="https://github.com/GustavoLoghan/Sensor_DHT22/blob/main/2/WhatsApp%20Image%202025-08-27%20at%2013.37.10.jpeg" width="400"/>
 
 ### Explicação do Código:
 
@@ -41,14 +44,20 @@ Escreva o seguinte código para fazer o **DHT22** funcionar corretamente:
 ## 4. Conecte a Placa no Computador
 
 O cabo Utilizado foi um **"Micro USB"**.  
-![Upload para o ESP32](caminho-da-imagem)
+
+<img src="https://github.com/GustavoLoghan/Sensor_DHT22/blob/main/2/WhatsApp%20Image%202025-08-27%20at%2013.58.14.jpeg" width="400"/>
+
+---
+
+Aviso: A imagem apresentada apresenta somente a conexão com o cabo, nenhum outro componente se encontra em uso.
 
 ---
 
 ## 4.1 Gravando no ESP32
 
-Clique na **seta no canto superior esquerdo** da IDE (normalmente o Arduino IDE) para carregar o código para a placa.  
-![Upload para o ESP32](caminho-da-imagem)
+Clique na **seta no canto superior esquerdo** da IDE (normalmente o Arduino IDE) para carregar o código para a placa.
+
+<img src="https://github.com/GustavoLoghan/Sensor_DHT22/blob/main/2/Captura%20de%20tela%202025-08-27%20143351.png" width="400"/>
 
 ---
 
@@ -63,6 +72,6 @@ Se sua placa for um modelo mais simples, pode ser necessário:
 
 ## 5. Seja Feliz 🎉
 
-Se você seguiu todos os passos corretamente, tudo deve estar funcionando perfeitamente! 🚀
+Se você seguiu todos os passos corretamente, tudo deve estar funcionando perfeitamente! 😁👍
 
 ---
